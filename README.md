@@ -15,10 +15,9 @@
 ### 하드웨어/FPGA 프로젝트
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FFT%20Processor-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/UART%20Communication-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/RISC--V%20CPU-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/FPGA%20Design-2E8B57?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512-point-pipeline-fft&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=uart-multi-sensor-control&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=riscv-multicycle-cpu&theme=dark" width="400" />
 </div>
 
 - **[512-Point Pipeline FFT 아키텍처 구현](https://github.com/MEGA-MK05/512-point-pipeline-fft)** - 고속 신호 처리를 위한 파이프라인 FFT 프로세서 설계 및 구현
@@ -39,10 +38,7 @@
 ### 임베디드 시스템 프로젝트
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ARM%20Cortex--M3-0091BD?style=flat-square&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Peripheral%20Drivers-FF6B6B?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=cortex-m3-mini-game&theme=dark" width="400" />
 </div>
 
 - **[Cortex-M3 미니 게임 프로젝트](https://github.com/MEGA-MK05/cortex-m3-mini-game)** - GPIO, UART, Timer 주변장치를 활용한 간단한 게임 개발
