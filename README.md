@@ -10,28 +10,27 @@
 </div>
 
 
-## �� 주요 프로젝트
+## 주요 프로젝트
 
 ### 하드웨어/FPGA 프로젝트
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512-point-pipeline-fft&theme=dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=uart-multi-sensor-control&theme=dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=riscv-multicycle-cpu&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512point_FFT_pipeline_architecture&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=multi_sensor_control_to_uart_system&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark" width="400" />
 </div>
 
-- **[512-Point Pipeline FFT 아키텍처 구현](https://github.com/MEGA-MK05/512-point-pipeline-fft)** - 고속 신호 처리를 위한 파이프라인 FFT 프로세서 설계 및 구현
-- **[UART 멀티 센서 제어 시스템](https://github.com/MEGA-MK05/uart-multi-sensor-control)** - 다중 센서 데이터 수집, 처리 및 제어를 위한 UART 기반 통신 시스템
-- **[32-bit RISC-V 멀티사이클 CPU](https://github.com/MEGA-MK05/riscv-multicycle-cpu)** - RISC-V RV32I 명령어 세트를 지원하는 32비트 멀티사이클 프로세서 설계
+- **[512-Point Pipeline FFT 아키텍처 구현](https://github.com/MEGA-MK05/512point_FFT_pipeline_architecture)** - 고속 신호 처리를 위한 파이프라인 FFT 프로세서 설계 및 구현
+- **[UART 멀티 센서 제어 시스템](https://github.com/MEGA-MK05/multi_sensor_control_to_uart_system)** - 다중 센서 데이터 수집, 처리 및 제어를 위한 UART 기반 통신 시스템
+- **[32-bit RISC-V 멀티사이클 CPU](https://github.com/MEGA-MK05/32bit_multicycle_risc_v_CPU)** - RISC-V RV32I 명령어 세트를 지원하는 32비트 멀티사이클 프로세서 설계
 
 ### AI/머신러닝 프로젝트
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=skin-disease-detection&theme=dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=realtime-diagnosis&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=AI_skindoctor_by_CNN_architecture&theme=dark" width="400" />
 </div>
 
-- **[CNN 기반 피부질환 진단 AI](https://github.com/MEGA-MK05/skin-disease-detection)** - 8개 클래스 분류 모델 (기저세포암, 보웬병, 표피낭종, 비립종, 정상피부, 화농성 육아종, 편평세포암, 사마귀)
+- **[CNN 기반 피부질환 진단 AI](https://github.com/MEGA-MK05/AI_skindoctor_by_CNN_architecture)** - 8개 클래스 분류 모델 (기저세포암, 보웬병, 표피낭종, 비립종, 정상피부, 화농성 육아종, 편평세포암, 사마귀)
 
 
 
@@ -41,12 +40,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=cortex-m3-mini-game&theme=dark" width="400" />
 </div>
 
-- **[Cortex-M3 미니 게임 프로젝트](https://github.com/MEGA-MK05/cortex-m3-mini-game)** - GPIO, UART, Timer 주변장치를 활용한 간단한 게임 개발
+- **[Cortex-M3 미니 게임 프로젝트](https://github.com/MEGA-MK05/use_Arm_cortex_for_game)** - GPIO, UART, Timer 주변장치를 활용한 간단한 게임 개발
 
 
 
 
-## 🛠️ 기술 스택
+## 기술 스택
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DA1F26?style=for-the-badge&logo=verilog&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
