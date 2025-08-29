@@ -14,25 +14,19 @@
 
 ### 하드웨어/FPGA 프로젝트
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512point_FFT_pipeline_architecture&theme=dark&cache_seconds=86400" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=multi_sensor_control_to_uart_system&theme=dark&cache_seconds=86400" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark&cache_seconds=86400" width="300" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512point_FFT_pipeline_architecture&theme=dark&cache_seconds=86400" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=multi_sensor_control_to_uart_system&theme=dark&cache_seconds=86400" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark&cache_seconds=86400" width="300" />
 
 ### AI/머신러닝 프로젝트
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=AI_skindoctor_by_CNN_architecture&theme=dark&cache_seconds=86400" width="400" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=AI_skindoctor_by_CNN_architecture&theme=dark&cache_seconds=86400" width="400" />
 
 
 
 ### 임베디드 시스템 프로젝트
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=use_Arm_cortex_for_game&theme=dark&cache_seconds=86400" width="400" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=use_Arm_cortex_for_game&theme=dark&cache_seconds=86400" width="400" />
 
 
 
