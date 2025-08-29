@@ -5,7 +5,6 @@
   ### 프로필
   
   [![GitHub](https://img.shields.io/badge/GitHub-MEGA--MK05-181717?style=for-the-badge&logo=github)](https://github.com/MEGA-MK05)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![Email](https://img.shields.io/badge/Email-prcsc05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prcsc05@gmail.com)
 </div>
 
