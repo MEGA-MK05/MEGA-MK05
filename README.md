@@ -15,15 +15,15 @@
 
 ## 🧑‍💻 Profile
 
-- 🎓 **2018.03 ~ 2025.03**: 가천대학교 전자공학과 졸업  
-- 💡 **2025.03 ~ 2025.10**: AI 반도체 설계 교육과정 수료  
-- ⚙️ 관심 분야: **RTL Design, FPGA Optimization, Embedded System, AI Hardware**
+-  **2018.03 ~ 2025.03**: 가천대학교 전자공학과 졸업  
+-  **2025.03 ~ 2025.10**: AI 반도체 설계 교육과정 수료  
+-  관심 분야: **RTL Design, FPGA Optimization, Embedded System, AI Hardware**
 
 ---
 
-## 🚀 Major Projects
+##  Major Projects
 
-### 🧩 Hardware / FPGA Projects
+###  Hardware / FPGA Projects
 
 <a href="https://github.com/MEGA-MK05/512point_FFT_pipeline_architecture">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512point_FFT_pipeline_architecture&theme=dark&cache_seconds=86400" width="400" />
@@ -35,34 +35,34 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark&cache_seconds=86400" width="400" />
 </a>
 
-**🛠 주요 기술:** SystemVerilog, Pipeline Architecture, FFT Algorithm  
-**🏆 핵심 성과:** 고속 신호 처리, 실시간 데이터 변환, 하드웨어 최적화
+** 주요 기술:** SystemVerilog, Pipeline Architecture, FFT Algorithm  
+** 핵심 성과:** 고속 신호 처리, 실시간 데이터 변환, 하드웨어 최적화
 
 ---
 
-### 🤖 AI / Machine Learning Projects
+###  AI / Machine Learning Projects
 
 <a href="https://github.com/MEGA-MK05/AI_skindoctor_by_CNN_architecture">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=AI_skindoctor_by_CNN_architecture&theme=dark&cache_seconds=86400" width="400" />
 </a>
 
-**🛠 주요 기술:** CNN, TensorFlow/Keras, Medical Image Processing  
-**🏆 핵심 성과:** 8개 피부질환 분류, 95%+ 정확도, 실시간 진단 시스템 구현
+** 주요 기술:** CNN, TensorFlow/Keras, Medical Image Processing  
+** 핵심 성과:** 8개 피부질환 분류, 95%+ 정확도, 실시간 진단 시스템 구현
 
 ---
 
-### 🕹 Embedded System Projects
+###  Embedded System Projects
 
 <a href="https://github.com/MEGA-MK05/use_Arm_cortex_for_game">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=use_Arm_cortex_for_game&theme=dark&cache_seconds=86400" width="400" />
 </a>
 
-**🛠 주요 기술:** ARM Cortex-M3, Embedded C, GPIO / UART / Timer  
-**🏆 핵심 성과:** 실시간 게임 로직 구현, 주변장치 제어, 임베디드 시스템 설계
+** 주요 기술:** ARM Cortex-M3, Embedded C, GPIO / UART / Timer  
+** 핵심 성과:** 실시간 게임 로직 구현, 주변장치 제어, 임베디드 시스템 설계
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 > ✉️ **Email:** [prcsc05@gmail.com](mailto:prcsc05@gmail.com)  
 > 🧰 **GitHub:** [MEGA-MK05](https://github.com/MEGA-MK05)
