@@ -35,6 +35,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark&cache_seconds=86400" width="400" />
 </a>
 
+<a href="https://github.com/MEGA-MK05/Real-time-video-processing-photo-booth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=Real-time-video-processing-photo-booth&theme=dark&cache_seconds=86400" width="400" />
+</a>
+
 ** 주요 기술:** SystemVerilog, Pipeline Architecture, FFT Algorithm  
 ** 핵심 성과:** 고속 신호 처리, 실시간 데이터 변환, 하드웨어 최적화
 
