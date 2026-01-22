@@ -82,7 +82,7 @@
 
 ## Contact
 
-> ✉️ **Email:** [prcsc05@gmail.com](mailto:prcsc05@gmail.com)  
+> ✉️ **Email:** [prcsc02@gmail.com](mailto:prcsc05@gmail.com)  
 > 🧰 **GitHub:** [MEGA-MK05](https://github.com/MEGA-MK05)
 
 ---
