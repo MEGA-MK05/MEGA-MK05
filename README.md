@@ -33,85 +33,28 @@
 
 ## Hardware / FPGA Projects
 
-<p align="center">
-
-<a href="https://github.com/MEGA-MK05/512point_FFT_pipeline_architecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=512point_FFT_pipeline_architecture&theme=dark" width="400">
-</a>
-
-<a href="https://github.com/MEGA-MK05/multi_sensor_control_to_uart_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=multi_sensor_control_to_uart_system&theme=dark" width="400">
-</a>
-
-<a href="https://github.com/MEGA-MK05/32bit_multicycle_risc_v_CPU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=32bit_multicycle_risc_v_CPU&theme=dark" width="400">
-</a>
-
-<a href="https://github.com/MEGA-MK05/Real-time-video-processing-photo-booth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=Real-time-video-processing-photo-booth&theme=dark" width="400">
-</a>
-
-</p>
-
-### 주요 기술
-- SystemVerilog
-- Verilog
-- FPGA Design
-- Pipeline Architecture
-- FFT Algorithm
-- UART / Sensor Interface
-
-### 핵심 성과
-- 512-point FFT Pipeline Architecture 구현
-- RISC-V 기반 Multicycle CPU 설계
-- 실시간 영상 처리 및 FPGA 기반 필터 구현
-- UART 기반 멀티센서 통합 시스템 설계
+| Project | Description | Tech |
+|---|---|---|
+| [512point_FFT_pipeline_architecture](https://github.com/MEGA-MK05/512point_FFT_pipeline_architecture) | 512-point FFT Pipeline Architecture 구현 및 고속 신호 처리 최적화 | SystemVerilog, FFT, Pipeline |
+| [multi_sensor_control_to_uart_system](https://github.com/MEGA-MK05/multi_sensor_control_to_uart_system) | UART 기반 멀티센서 통합 제어 시스템 설계 | Verilog, UART, Sensor Interface |
+| [32bit_multicycle_risc_v_CPU](https://github.com/MEGA-MK05/32bit_multicycle_risc_v_CPU) | RISC-V RV32I 기반 Multicycle CPU 설계 | Verilog, RISC-V, FSM |
+| [Real-time-video-processing-photo-booth](https://github.com/MEGA-MK05/Real-time-video-processing-photo-booth) | OV7670 기반 실시간 영상 처리 및 FPGA 필터 구현 | FPGA, Video Processing, VGA |
 
 ---
 
 ## AI / Machine Learning Projects
 
-<p align="center">
-
-<a href="https://github.com/MEGA-MK05/AI_skindoctor_by_CNN_architecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=AI_skindoctor_by_CNN_architecture&theme=dark" width="400">
-</a>
-
-</p>
-
-### 주요 기술
-- CNN
-- TensorFlow / Keras
-- Medical Image Processing
-- Python
-
-### 핵심 성과
-- 피부질환 이미지 분류 모델 구현
-- CNN 기반 추론 시스템 개발
-- 실시간 진단 인터페이스 구성
+| Project | Description | Tech |
+|---|---|---|
+| [AI_skindoctor_by_CNN_architecture](https://github.com/MEGA-MK05/AI_skindoctor_by_CNN_architecture) | CNN 기반 피부질환 이미지 분류 및 추론 시스템 구현 | CNN, TensorFlow, Keras |
 
 ---
 
 ## Embedded System Projects
 
-<p align="center">
-
-<a href="https://github.com/MEGA-MK05/use_Arm_cortex_for_game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGA-MK05&repo=use_Arm_cortex_for_game&theme=dark" width="400">
-</a>
-
-</p>
-
-### 주요 기술
-- ARM Cortex-M3
-- Embedded C
-- GPIO / UART / Timer
-- Interrupt Control
-
-### 핵심 성과
-- 실시간 게임 로직 구현
-- MCU 기반 주변장치 제어
-- 임베디드 시스템 설계 및 디버깅
+| Project | Description | Tech |
+|---|---|---|
+| [use_Arm_cortex_for_game](https://github.com/MEGA-MK05/use_Arm_cortex_for_game) | ARM Cortex-M3 기반 게임 로직 및 주변장치 제어 시스템 구현 | ARM Cortex-M3, Embedded C |
 
 ---
 
