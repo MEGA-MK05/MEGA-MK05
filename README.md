@@ -22,7 +22,7 @@
   가천대학교 전자공학과 졸업
 
 - 🧠 **2025.03 ~ 2025.10**  
-  AI 시스템 반도체 설계 교육과정 수료 예정
+  AI 시스템 반도체 설계 교육과정 수료 
 
 - 🔍 관심 분야  
   RTL Design, FPGA Acceleration, Digital System Design, AI Hardware
